@@ -46,11 +46,11 @@ The three packages used for other aspects of to add grocery page are:<br>
 ## Profile Page:
 A simple profile page, that shows points collected by user, and a `CircleAvatar` for user's icon. It also has a log out functionality which will cause the app to 
 initialize again. 
-<br>
-<img src = "appScreens/profile_page_lm.jpg" height = "378" width = "180">
+<br><br>
+<img src = "appScreens/profile_page_lm.jpg" height = "378" width = "180"><br>
 ## Dark Theme:
 On pressing the dark mode, button the UI refreshes to show dark mode, using inbuilt flutter `ThemeData` class.
-<br>
+<br><br>
 <img src = "appScreens/explore_page_dm.jpg" height = "378" width = "180">
 <img src = "appScreens/recipes_page_dm.jpg" height = "378" width = "180">
 <img src = "appScreens/added_items_dm.jpg" height = "378" width = "180"><br>
